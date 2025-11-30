@@ -170,7 +170,9 @@ Key calculations:
 ## 📁 Project Files
 - `Dashboard.pbix` – Power BI File  
 - `Dashboard.png` – Dashboard Preview Image  
-- `Dataset.csv` – Raw Data  
+- `Customers.csv` – Raw Data  
+- `Orders.csv` – Raw Data  
+- `Products.csv` – Raw Data  
 
 ---
 
